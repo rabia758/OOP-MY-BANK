@@ -19,7 +19,7 @@
 Clone the repository to your local machine
 - Run npm install to install
 ## NPM Usage🔗
-- you can install npm by npm i mybank_by_fairy. and for run Cli npmx command is here: npx mybank_by_fairy
+- you can install npm by npm i oop-my-bank-rabia. and for run Cli npmx command is here: npx mybank_by_fairy
 
 ## License📜
 This project is licensed under the ISC License
